@@ -19,7 +19,7 @@
           title={$t('program.motivation_speech')}
           time="16:15"
           location={$t('program.motivation_speech_loc')}
-          loc_link="https://link.mazemap.com/DsnEdMUa"
+          loc_link="https://link.mazemap.com/zhakaej5"
         >
         </Event>
     <h3 class="mb-2 mt-8 text-2xl">{$t('program.day_tuesday')}</h3>
@@ -28,7 +28,7 @@
           title={$t('program.cv_photo')}
           time="10:30 - 13:30"
           location={$t('program.cv_photo_loc')}
-          loc_link="https://link.mazemap.com/DsnEdMUa"
+          loc_link="https://link.mazemap.com/8uRg9xSW"
         >
           <p class="mt-3 leading-7">
             {$t('program.cv_photo_desc')}
@@ -66,6 +66,12 @@
       loc_link="https://link.mazemap.com/DsnEdMUa"
       />
       <Event
+        title={$t('program.cv_check')}
+        time="10:15 - 15:00"
+        location={$t('program.cv_check_loc')}
+        loc_link="https://link.mazemap.com/6t3jrdZx"
+      />
+      <Event
         title={$t('program.summerjob_marathon')}
         time="11:15 - 12:00"
         location={$t('program.summerjob_marathon_loc')}
@@ -77,7 +83,7 @@
       </Event>
       <Event
         title={$t('program.job_marathon')}
-        time="14:15 - 14:45"
+        time="13:15 - 13:45"
         location={$t('program.job_marathon_loc')}
         loc_link="https://link.mazemap.com/yEsRxMn0"
       >
